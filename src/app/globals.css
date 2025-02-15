@@ -5,14 +5,13 @@ body {
 }
 
 body {
-  background: url("/ford2.jpeg");
+  background: url("/ford_log_left_new.jpeg") no-repeat center center fixed;
   background-size: cover;
   margin: 0;
   padding: 0;
   height: 100vh;
   width: 100vw;
 }
-
 
 /* .box {
   background-color: #133c3e;
